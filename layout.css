@@ -9,6 +9,7 @@ h2 {
 
 body{
     font-family: "Helvetica",sans-serif;
+    font-size: 16pt;
     color: #67357f;
     background: #deb58b;
     text-align: justify;
@@ -34,7 +35,6 @@ body{
 
 #seriouscontent {
    font-family: "Times New Roman";
-   font-size: 16pt;
     width: 75%;
     margin-top: 25px;
     margin-left: auto;
