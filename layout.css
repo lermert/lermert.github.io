@@ -1,0 +1,42 @@
+h1 {
+    color: #420360;
+}
+
+h2 {
+    color: #c6b3cf;
+}
+
+
+body{
+    font-family: "Helvetica",sans-serif;
+    color: #67357f;
+    background: #deb58b;
+    text-align: justify;
+}
+
+#heading{
+  width: 75%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Helvetica",sans-serif;
+  background: #8d679f;
+  text-align: center;
+}
+
+#content {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#seriouscontent {
+   font-family: "Times New Roman";
+   font-size: 16pt;
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
