@@ -1,29 +1,29 @@
 h1 {
-    color: #420360;
+    color: #007b96;
 }
 
 h2 {
-    color: #c6b3cf;
+    color: #b6b9ba;
 }
 
 
 body{
     font-family: "Helvetica",sans-serif;
     font-size: 16pt;
-    color: #67357f;
-    background: #deb58b;
+    color:  #007b96;
+    background: #d8dce3;
     text-align: justify;
 }
 
 #heading{
-  width: 75%;
+  width: 100%;
   padding-top: 25px;
   padding-bottom: 25px;
   margin-left: auto;
   margin-right: auto;
   font-family: "Helvetica",sans-serif;
-  background: #8d679f;
-  text-align: center;
+  background: #d8dce3;
+  text-align: left;
 }
 
 #content {
@@ -33,10 +33,3 @@ body{
     margin-right: auto;
 }
 
-#seriouscontent {
-   font-family: "Times New Roman";
-    width: 75%;
-    margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
-}
