@@ -3,10 +3,10 @@ h1 {
 }
 
 h2 {
-    color: #b6b9ba;
+    color: #007b96;
 }
 
-
+/*#b6b9ba */
 body{
     font-family: "Helvetica",sans-serif;
     font-size: 16pt;
@@ -33,3 +33,33 @@ body{
     margin-right: auto;
 }
 
+
+ul.tablist li{
+  width: auto;
+  float: left;
+  list-style-type: none;
+  font-family: "Helvetica",sans-serif;
+  font-size: 14pt;
+  color: #007b96;
+  padding-left: 0;
+}
+
+ /* unvisited link */
+a:link {
+  color: #007b96;
+}
+
+/* visited link */
+a:visited {
+  color: #007b96;
+}
+
+/* mouse over link */
+a:hover {
+  color: #91056a;
+}
+
+
+a:link{
+  text-decoration: none
+}
