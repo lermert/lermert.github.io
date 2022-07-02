@@ -67,3 +67,51 @@ a:hover {
 a:link{
   text-decoration: none
 }
+
+body{
+    font-family: "Helvetica",sans-serif;
+    font-size: 16pt;
+    color:  #007b96;
+    background: #d8dce3;
+    text-align: justify;
+}
+
+ul.tablist li {
+  width: auto;
+  float: left;
+  list-style-type: none;
+  font-family: "Helvetica",sans-serif;
+  font-size: 14pt;
+  color: #007b96;
+  padding-left: 0;
+}
+
+ul.tablist li::before {
+  content: '\\ \\';
+    color: gray;
+  padding: 0 0.5rem 0 0;
+}
+
+ul.tablist li::after {
+  content: '/ /';
+    color: gray;
+  padding: 0 0 0.5rem;
+}
+
+a:link {
+  color: #007b96;
+}
+
+/* visited link */
+a:visited {
+  color: #007b96;
+}
+
+/* mouse over link */
+a:hover {
+  color: #91056a;
+}
+
+a:link{
+  text-decoration: none
+}
