@@ -1,21 +1,21 @@
 h1 {
-    color: #007b96;
+    color: #000000; /*#007b96;*/
 }
 
 h2 {
-    color: #007b96;
+    color: #000000; /*#007b96;*/
 }
 
 h3 {
-    color: #007b96;
+    color: #000000; /*#007b96;*/
     margin-bottom: 0px;
 }
 /*#b6b9ba */
 body{
     font-family: "Helvetica",sans-serif;
     font-size: 16pt;
-    color:  #007b96;
-    background: #d8dce3;
+    color: #000000;  /*#007b96;*/
+    background: #e2dfe7; /*#f7f2e7;*/ /*#d8dce3;*/
     text-align: justify;
 }
 
@@ -26,7 +26,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   font-family: "Helvetica",sans-serif;
-  background: #d8dce3;
+  background: #e2dfe7; /*#f7f2e7;*/ /*#d8dce3;*/
   text-align: left;
 }
 
@@ -67,7 +67,7 @@ a:hover {
 a:link{
   text-decoration: none
 }
-
+/*
 body{
     font-family: "Helvetica",sans-serif;
     font-size: 16pt;
@@ -75,7 +75,7 @@ body{
     background: #d8dce3;
     text-align: justify;
 }
-
+*/
 ul.tablist li {
   width: auto;
   float: left;
